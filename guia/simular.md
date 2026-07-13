@@ -7,17 +7,17 @@ para simular e ver o resultado.
 
 Na página inicial, preencha:
 
-- **Consumo médio mensal no horário de ponta (kWh)** — você encontra esse
-  valor na sua fatura de energia, na linha de consumo de ponta. Se ele varia
-  ao longo do ano, use uma média dos últimos 12 meses.
+- **Consumo no horário de ponta (kWh)** — você encontra esse valor na sua
+  fatura de energia, na linha de consumo de ponta. Há duas formas de
+  informar:
+  - **Média dos últimos 12 meses** — um único valor, mais rápido;
+  - **Mês a mês (janeiro a dezembro)** — os 12 valores da sua fatura, mais
+    preciso quando o consumo varia ao longo do ano (sazonalidade).
 - **Estado** — onde fica a unidade consumidora.
 - **Concessionária** — a distribuidora de energia que atende o local.
-- **Tipo de cliente** — *cativo* (mercado regulado, THS Verde) ou *livre*
-  (mercado livre de energia). No mercado livre, informe também o tipo de
-  energia contratada.
-
-Opcionalmente, marque se a unidade **consome energia nos fins de semana** e se
-**possui (ou terá) usina solar** — nesse caso, informe a potência em kWp.
+- **Tipo de cliente (A4 - THS Verde)** — *cativo* (mercado regulado) ou
+  *livre* (mercado livre de energia). No mercado livre, informe também o
+  tipo de energia contratada.
 
 ## 2. Calcule
 
