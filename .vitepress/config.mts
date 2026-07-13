@@ -11,12 +11,15 @@ export default defineConfig({
     nav: [
       { text: "Início", link: "/" },
       { text: "Guia do usuário", link: "/guia/" },
+      { text: "Perguntas frequentes", link: "/guia/faq" },
     ],
     sidebar: [
       {
         text: "Guia do usuário",
         items: [
           { text: "O que é o Integralivre BESS", link: "/guia/" },
+          { text: "Como fazer uma simulação", link: "/guia/simular" },
+          { text: "Área do integrador", link: "/guia/integradores" },
           { text: "Perguntas frequentes", link: "/guia/faq" },
         ],
       },
