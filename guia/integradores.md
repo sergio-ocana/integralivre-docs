@@ -6,9 +6,34 @@ viabilidade com a sua marca e o seu orçamento.
 
 ## Criar conta e entrar
 
-Acesse a **área do integrador** e clique em *Cadastre-se gratuitamente*.
-Informe nome, empresa, e-mail, telefone e uma senha. A conta é criada na hora
-e o acesso é gratuito.
+A conta representa a sua **empresa (CNPJ)** — ou você, **pessoa física
+(CPF)**. Quem cadastra é o **Representante/Proprietário**: acesse a área do
+integrador, clique em *Cadastre-se gratuitamente*, escolha CPF ou CNPJ (o
+número é validado na hora), informe seus dados, o celular com DDD e aceite
+o termo de privacidade (LGPD).
+
+Para concluir, **confirme o e-mail**: enviamos um link e a conta só é
+ativada depois do clique — é a garantia de que o e-mail é seu mesmo.
+
+Esqueceu a senha? Use o botão **"Esqueci a senha"** na tela de login para
+receber o link de redefinição. Você também pode trocar a senha a qualquer
+momento no seu perfil.
+
+## Sua equipe (gerentes, coordenadores e vendedores)
+
+A conta pode ter uma equipe em níveis — **Gerentes**, **Coordenadores** e
+**Vendedores** — montada do jeito da sua empresa: vendedores direto na
+conta, gerente com ou sem coordenadores, como preferir.
+
+- A entrada na equipe é **sempre por convite**: quem convida já define o
+  papel e a quem a pessoa responde — o convidado só cria a senha e aceita o
+  termo. Não há como entrar na empresa errada.
+- Dá para convidar **várias pessoas de uma vez** (colando os e-mails) e
+  **copiar o link do convite** para mandar por WhatsApp.
+- Cada pessoa **vê os orçamentos dela e de todos abaixo dela**; o
+  Representante vê tudo da conta.
+- Mudou a estrutura? É só **mover a pessoa** para outro chefe na tela
+  *Minha equipe*.
 
 ## Seu perfil e a sua marca
 
