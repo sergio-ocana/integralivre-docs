@@ -23,6 +23,8 @@ de preço entre os horários.
 - **Payback** simples e descontado;
 - Percentual de **redução do consumo no horário de ponta**;
 - Configuração recomendada do sistema de baterias;
+- Indicadores de **continuidade do fornecimento (DEC/FEC)** da sua região,
+  publicados pela ANEEL — referência para a aplicação de backup;
 - Um **estudo completo em PDF** para download.
 
 ## Como funciona, em resumo

@@ -40,6 +40,27 @@ Logo abaixo, aparece o **sistema recomendado** (quantidade e capacidade das
 baterias) e o **investimento estimado**. Um bloco expansível mostra as
 premissas usadas na estimativa.
 
+### Continuidade do fornecimento (DEC/FEC)
+
+O resultado também traz um bloco com os **indicadores de continuidade** da
+sua região, publicados pela ANEEL:
+
+- **DEC** — quantas **horas por ano**, em média, uma unidade consumidora da
+  região fica sem energia;
+- **FEC** — quantas **interrupções por ano**, em média, ela sofre;
+- os **limites regulatórios** que a ANEEL exige da distribuidora, quando
+  disponíveis.
+
+Esses números ajudam a avaliar um benefício adicional do BESS: além da
+economia com *load shifting*, as baterias podem servir de **backup** durante
+quedas de energia. A simulação **não quantifica financeiramente** esse
+benefício — os indicadores são uma referência estatística.
+
+Quando o valor mostrado é uma média de vários conjuntos elétricos (por
+exemplo, a média da distribuidora inteira), ele aparece com o selo
+**"estimativo"**. Os indicadores são médias coletivas e não refletem
+necessariamente a experiência exata da sua unidade consumidora.
+
 ::: info Valores estimados
 Os preços são referenciais, para uma análise preliminar de viabilidade. O
 orçamento definitivo depende de avaliação técnica e comercial do projeto.
@@ -52,7 +73,9 @@ seus dados de contato (nome, empresa, e-mail e telefone). É nesse momento que
 você autoriza o contato da Integralivre sobre a simulação.
 
 Depois disso, você recebe um **link permanente** do seu estudo — pode salvá-lo
-ou compartilhá-lo — e o PDF fica disponível para download.
+ou compartilhá-lo — e o PDF fica disponível para download. O estudo em PDF
+inclui o resumo executivo, o sistema recomendado, as premissas da simulação
+e os indicadores de continuidade (DEC/FEC) da região.
 
 ## 5. Próximos passos
 

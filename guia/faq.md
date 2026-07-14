@@ -24,6 +24,18 @@ carregadas quando a tarifa é barata (fora de ponta) e descarregadas no horário
 de ponta, quando a energia da rede é mais cara. A economia vem dessa diferença
 tarifária.
 
+## O que são DEC e FEC?
+
+São os indicadores oficiais de **continuidade do fornecimento** de energia,
+apurados pela ANEEL para cada região: o **DEC** mede quantas horas por ano,
+em média, uma unidade consumidora fica sem energia; o **FEC** mede quantas
+interrupções por ano ela sofre, em média. O simulador mostra esses números
+para a sua distribuidora (ou cidade, quando informada) como referência de um
+benefício adicional do BESS — servir de **backup** durante quedas de
+energia. Por serem médias coletivas, eles não refletem necessariamente a
+experiência exata da sua unidade, e o retorno financeiro do backup não é
+quantificado na simulação.
+
 ## O resultado da simulação é uma proposta comercial?
 
 Não. O estudo tem caráter preliminar e estimativo: os valores de equipamento,
