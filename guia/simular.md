@@ -79,11 +79,7 @@ e os indicadores de continuidade (DEC/FEC) da região.
 
 ## 5. Próximos passos
 
-Na página do resultado você pode, gratuitamente:
-
-- **Falar com um especialista** para entender o estudo;
-- **Solicitar um orçamento** de equipamentos e/ou projetos;
-- **Solicitar um projeto** de engenharia.
-
-Ao enviar qualquer uma dessas solicitações, a equipe da Integralivre recebe
-seu pedido e entra em contato pelos dados informados.
+Na página do resultado você pode, gratuitamente, **falar com um
+especialista** para entender o estudo e avaliar os próximos passos do seu
+projeto. Ao enviar a solicitação, a equipe da Integralivre recebe seu
+pedido e entra em contato pelos dados informados.

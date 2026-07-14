@@ -2,8 +2,8 @@
 
 ## A simulação é realmente gratuita?
 
-Sim. A simulação, a visualização do resultado no site, o download do PDF, a
-conversa com especialista e a solicitação de orçamento são gratuitos.
+Sim. A simulação, a visualização do resultado no site, o download do PDF e
+a conversa com especialista são gratuitos.
 
 ## Preciso criar conta para simular?
 
@@ -59,8 +59,8 @@ pode solicitar a exclusão dos seus dados a qualquer momento.
 ## Vocês vendem as baterias?
 
 A Integralivre conecta você a distribuidores e integradores parceiros e pode
-apoiar com serviços técnicos e projetos de engenharia. A solicitação de
-orçamento é feita pela própria plataforma.
+apoiar com serviços técnicos e projetos de engenharia. Fale com um
+especialista pela própria plataforma para avançar com o seu projeto.
 
 ## Sou integrador. Como uso a plataforma com a minha marca?
 

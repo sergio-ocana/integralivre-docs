@@ -34,8 +34,8 @@ de preço entre os horários.
 2. O simulador dimensiona o sistema e calcula os indicadores financeiros;
 3. O resultado aparece na hora, na própria tela;
 4. Se quiser o estudo em PDF, você informa seus dados de contato;
-5. A partir do resultado, você pode falar com um especialista ou solicitar
-   um orçamento — tudo gratuito.
+5. A partir do resultado, você pode falar com um especialista — tudo
+   gratuito.
 
 O passo a passo detalhado está em
 [Como fazer uma simulação](/guia/simular).
